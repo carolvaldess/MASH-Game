@@ -1,8 +1,8 @@
 /* Body styling */
 body {
   background: #713e94;
-  color: #fff;
-  font-family: Helvetica, Arial;
+  color: #orangered;
+  font-family: fantasy;
   font-size: 27px;
   font-weight: 300;
   line-height: 1.65em;
@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 60px;
-  color: #fff;
+  color: #skyblue;
   text-align: center;
 }
 
@@ -59,7 +59,7 @@ h1 {
 .choice-bucket label {
   font-size: 12px;
   line-height: 13px;
-  margin: 15px 4%;
+  margin: 0px 4%;
 }
 
 .choice-bucket input {
