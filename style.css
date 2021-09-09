@@ -1,8 +1,8 @@
 /* Body styling */
 body {
-  background: #713e94;
-  color: #orangered;
-  font-family: fantasy;
+  background: deepskyblue;
+  color: #blue;
+  font-family: cursive;
   font-size: 27px;
   font-weight: 300;
   line-height: 1.65em;
@@ -14,28 +14,30 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
-  color: #skyblue;
+  font-size: 70px;
+  color: peachpuff;
   text-align: center;
 }
 
 
 /* Game Directions */
 .description {
+  font-size: 33px;
+  color: darkblue;
   text-align: center;
-  margin: 80px auto 40px;
+  margin: 25px auto 40px;
 }
 
 
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
-  background: transparent;
+  background: darkblue;
   border: 3px solid #fff;
   border-radius: 6px;
-  color: #fff;
+  color: peachpuff;
   cursor: pointer; 
   display: block;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: bold;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
@@ -64,8 +66,9 @@ h1 {
 
 .choice-bucket input {
   border: 0;
+  background: lightgoldenrodyellow;
   border-radius: 6px;
-  color: #713e94;
+  color: darkblue;
   font-size: 18px;
   margin: 0px 4%;
   outline: 0;
@@ -79,10 +82,11 @@ h1 {
 }
 
 .highlight {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 24px;
   margin-left: 30px;
   opacity: .8;
+  height: 50px ;
 }
 
 
